@@ -18,7 +18,7 @@
 ![](pic/002.jpg)
 
 ## 步骤二、注册
-* 打开 [美国 PayPal 官网](https://www.paypal.com/us/webapps/mpp/home),点击右上角 `Sign Up` 注册。
+* 打开 [美国 PayPal 官网](https://www.paypal.com/us/webapps/mpp/home)，点击右上角 `Sign Up` 注册。
 
 ![](pic/003.png)
 
