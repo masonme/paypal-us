@@ -76,15 +76,13 @@
 
 ## 步骤五、绑定美区 Apple ID
 
+> 建议等 2~3 天再关联美区 Apple ID，不然有可能被风控。
+
 * App Store 登陆美区 Apple ID，点按头像进入选择「Manage Payments」管理付款。
 
 * 点按「Add Payment Method」添加付款方式。
 
-
-
 ![](pic/0015.png)
-
-
 
 * 选择「PayPal」会自动打开网页并登陆 `PayPal` 账户。
 
@@ -92,20 +90,12 @@
 
 * 绑定成功，即可购买美区付费 App。
 
-
-
 ![](pic/0016.png)
-
-
-
-
 
 > 登陆 PayPal 如出现下图情况，是因为新注册的 PayPal 有审核机制，解决办法有两个：
 > 
 > 1. 把这段话翻译成英文发邮件给 PayPal 客服，会帮你解决。
 > 
 > 2. 不要着急，等 1-2 天再来 App Store 验证也会成功。
-
-
 
 ![](pic/0017.png)
