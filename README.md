@@ -94,3 +94,7 @@
 > 2. 不要着急，等 1-2 天再来 App Store 验证也会成功。
 
 ![](pic/0017.png)
+
+如果对你有帮助，欢迎支付宝扫码支持！
+
+![Alipay](https://raw.githubusercontent.com/masonincn/tuchuang/master/uPic/Alipay.png)
