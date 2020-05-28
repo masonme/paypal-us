@@ -96,6 +96,13 @@
 
 ![](pic/0017.png)
 
+### Telegram
+
+* 软硬路由器群（含二手）：[https://t.me/luyouqi](https://t.me/luyouqi)
+* V2EX交流群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
+* macOS交流群：[https://t.me/macOSjiaoliu](https://t.me/macOSjiaoliu)
+* Google产品交流：[https://t.me/Googlejiaoliuqun](https://t.me/Googlejiaoliuqun)
+
 如果对你有帮助，欢迎支付宝扫码支持！
 
 ![Alipay](https://raw.githubusercontent.com/masonincn/tuchuang/master/uPic/Alipay.png)
