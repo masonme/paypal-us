@@ -65,7 +65,7 @@
 
 ### 步骤五、绑定美区 Apple ID
 
-【注】为防止被[风控]（#解决绑定appleid被风控），建议 2~3 天后再关联美区 Apple ID。
+【注】为防止被[风控](#解决绑定-apple-id-被风控)，建议 2~3 天后再关联美区 Apple ID。
 
 App Store 登陆美区 Apple ID，点按头像进入选择「Manage Payments」管理付款。点按「Add Payment Method」添加付款方式。
 
