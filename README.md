@@ -69,7 +69,7 @@ App Store 登陆美区 Apple ID，点按头像进入点选「Manage Payments」�
 
 **方法二**：等 1-2 天再来 App Store 验证。
 
-![](pic/0017风控.png)
+![](pic/风控.png)
 
 ### Telegram
 * V2EX群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
