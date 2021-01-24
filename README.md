@@ -2,13 +2,13 @@
 
 ### 步骤一、检查 IP
 
-节点路线切换为美国（全局模式），浏览器（无痕模式）打开 [https://whoer.net](https://whoer.net)，检测路线伪装程度。
-> 部分人 IP 节点虽然是美国，但是不是原生 IP
-![](pic/002.jpg)
+节点切换为美国（全局模式），浏览器（无痕模式）打开 [whoer](https://whoer.net) 检测路线伪装程度。
+
+【注】部分人 IP 节点虽然是美国，但不是原生 IP。![](pic/002.jpg)
 
 ### 步骤二、注册
 
-打开美国 [PayPal](https://www.paypal.com/us/webapps/mpp/home)，点击右上角 `Sign Up` 注册。
+打开美国 [PayPal](https://www.paypal.com/us/webapps/mpp/home)，点击右上角 `Sign Up` 。
 
 ![](pic/003.png)
 
@@ -20,12 +20,11 @@
 
 ![](pic/005.png)
 
-填写美国地址，没有的可以点击 [美国地址生成器](https://www.fakeaddressgenerator.com/Random_Address/US_California)，建议选择免税州。
-手机号填写 Google Voice。
+填写美国地址，也可以使用 [美国地址生成器](https://www.fakeaddressgenerator.com/Random_Address/US_California)（建议选择免税州）。手机填写 Google Voice 号码。
 
-![](pic/006.png)
+![](pic/006地址.png)
 
-* 此时注册完成，但还需要验证邮箱。
+注册完成，但还需要验证邮箱。
 
 ![](pic/007.png)
 
@@ -53,7 +52,7 @@
 
 ![](pic/0012.png)
 
-* 将收到的验证码填入，点击「继续」。
+将收到的验证码填入，点击「继续」。
 
 ![](pic/0013.png)
 
