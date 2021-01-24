@@ -6,6 +6,10 @@
 
 【注】部分人 IP 节点虽然是美国，但不是原生 IP。![](pic/002.jpg)
 
+
+
+---
+
 ### 步骤二、注册
 
 打开美国 [PayPal](https://www.paypal.com/us/webapps/mpp/home)，点击右上角 `Sign Up` 。选择个人账户，点击「next」。
@@ -22,6 +26,8 @@
 
 ![](pic/006地址.png)
 
+---
+
 ### 步骤三、验证邮箱，绑定银行卡
 
 Gmail 收件箱里找到 Paypal 邮件，点选「验证我的邮箱地址」。填写银行卡信息。
@@ -31,6 +37,8 @@ Gmail 收件箱里找到 Paypal 邮件，点选「验证我的邮箱地址」。
 绑定银行卡成功。
 
 ![](pic/0010.png)
+
+---
 
 ### 步骤四、验证手机号完成注册
 
@@ -62,7 +70,10 @@ App Store 登陆美区 Apple ID，点按头像进入点选「Manage Payments」�
 
 ![](pic/5pp.png)
 
+---
+
 ### 解决绑定 Apple ID 被风控
+
 登陆 PayPal 如出现下图情况，是因新注册的 PayPal 有审核机制，解决办法：
 
 **方法一**：将下图中中文翻译成英文并发邮件给 PayPal，请客服解决。
@@ -71,7 +82,10 @@ App Store 登陆美区 Apple ID，点按头像进入点选「Manage Payments」�
 
 ![](pic/风控.png)
 
+---
+
 ### Telegram
+
 * V2EX群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
 * Apple群：[https://t.me/applequn](https://t.me/applequn)
 * Google群：[https://t.me/googlequn](https://t.me/googlequn)
