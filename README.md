@@ -83,9 +83,10 @@ PayPal 绑定的银行卡会消费几美元，验证成功会返还。
 登陆 PayPal 如出现下图情况，是因新注册的 PayPal 有审核机制，解决办法：
 
 **方法一**：将这段话翻译成英文发邮件给 PayPal。
+
 **方法二**：等 1-2 天再来 App Store 验证。
 
-![](pic/0017.png)
+![](pic/0017风控.png)
 
 ### Telegram
 * V2EX群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
