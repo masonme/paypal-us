@@ -72,7 +72,7 @@ App Store 登陆美区 Apple ID，点按头像进入点选「Manage Payments」�
 
 ---
 
-### 解决绑定 Apple ID 被风控
+### 解决 Paypal 被风控
 
 登陆 PayPal 如出现下图情况，是因新注册的 PayPal 有审核机制，解决办法：
 
