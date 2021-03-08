@@ -20,7 +20,7 @@
 
 ![](pic/005.png)
 
-填写美国地址，也可以使用 [美国地址生成器](https://www.fakeaddressgenerator.com/Random_Address/US_California)（建议选择免税州）。手机填写 Google Voice 号码。
+填写美国地址，也可以使用 [美国地址生成器](https://www.fakeaddressgenerator.com/Random_Address/US_California)（建议选择免税州）。手机号码可以填写 [Google Voice](https://github.com/liuour/GoogleVoice)。
 
 点选【同意并创建账户】完成注册。
 
