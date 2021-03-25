@@ -20,7 +20,7 @@
 
 填写真实姓名、邮箱、密码。
 
-![005](https://tva1.sinaimg.cn/large/008eZBHKly1gow2duq8szj30zy0oagp6.jpg)
+![005](https://tva3.sinaimg.cn/large/008eZBHKly1gow2sff5jgj30zy0oajs5.jpg)
 
 填写[美国地址](https://www.fakeaddressgenerator.com/Random_Address/US_California)和手机号码（如 [Google Voice](https://github.com/liuour/GoogleVoice)），点击「同意并创建账户」。
 
