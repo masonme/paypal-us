@@ -1,87 +1,78 @@
 # 使用 Google Voice 注册美区 PayPal，绑定美区 Apple ID 教程
 
-### 步骤一、检查 IP
+### 检测 IP
 
-节点切换为美国（全局模式），浏览器（无痕模式）打开 [whoer](https://whoer.net) 检测路线伪装程度。
+开启美国节点（全局模式），浏览器（无痕模式）打开 [whoer](https://whoer.net) 检测路线伪装程度。
 
-【注】部分人 IP 节点虽然是美国，但不是原生 IP。![](pic/002.jpg)
+> 注意：部分人节点虽然是美国，但不是原生 IP。
+
+![002](https://tva2.sinaimg.cn/large/008eZBHKly1gow2c9s9lzj31vw18ywi2.jpg)
 
 
 
 ---
 
-### 步骤二、注册
+### 注册
 
-打开美国 [PayPal](https://www.paypal.com/us/webapps/mpp/home)，点击右上角 `Sign Up` 。选择个人账户，点击「next」。
+打开美国 [PayPal](https://www.paypal.com/us/webapps/mpp/home) 点击右上角 `Sign Up` 。选择个人账户，点击「next」。
 
-![](pic/004.png)
+![004](https://tva1.sinaimg.cn/large/008eZBHKly1gow2diyd1gj30zy0lq45m.jpg)
 
 填写真实姓名、邮箱、密码。
 
-![](pic/005.png)
+![005](https://tva1.sinaimg.cn/large/008eZBHKly1gow2duq8szj30zy0oagp6.jpg)
 
-填写美国地址，也可以使用 [美国地址生成器](https://www.fakeaddressgenerator.com/Random_Address/US_California)（建议选择免税州）。手机号码可以填写 [Google Voice](https://github.com/liuour/GoogleVoice)。
+填写[美国地址](https://www.fakeaddressgenerator.com/Random_Address/US_California)和手机号码（如 [Google Voice](https://github.com/liuour/GoogleVoice)），点击「同意并创建账户」。
 
-点选【同意并创建账户】完成注册。
-
-![](pic/006地址.png)
+![006地址](https://tvax2.sinaimg.cn/large/008eZBHKly1gow2e6gcdqj30zj0rzta4.jpg)
 
 ---
 
-### 步骤三、验证邮箱，绑定银行卡
+### 验证邮箱，绑定银行卡
 
-Gmail 收件箱里找到 Paypal 邮件，点选「验证我的邮箱地址」。填写银行卡信息。
+打开邮箱里 Paypal 邮件，点击「验证我的邮箱地址」，填写银行卡信息。
 
-![](pic/009.png)
+![009](https://tvax2.sinaimg.cn/large/008eZBHKly1gow2echem3j30zy0mhaal.jpg)
 
-绑定银行卡成功。
+完成关联卡。
 
-![](pic/0010.png)
-
----
-
-### 步骤四、验证手机号完成注册
-
-回到 PayPal 首页，点选「验证我的手机号码」。
-
-输入 Google Voice 号码，点击下一步。
-
-![](pic/0011.png)
-
-
-
-将收到的验证码填入并点选「继续」完成绑定。
-
-![](pic/0014.png)
+![0010](https://tva4.sinaimg.cn/large/008eZBHKly1gow2ekhr7kj31zw11madb.jpg)
 
 ---
 
-### 步骤五、绑定美区 Apple ID
+### 验证手机号
 
-【注】为防止被[风控](#解决绑定-apple-id-被风控)，建议 2~3 天后再关联美区 Apple ID。
+切到 PayPal 首页，点选「验证我的手机号码」，输入 Google Voice 号码，完成绑定。
+
+![0011](https://tvax1.sinaimg.cn/large/008eZBHKly1gow2eqlz3dj30zy0hnwfp.jpg)
+
+---
+
+### 绑定美区 Apple ID
+
+> 注意：为防止被[风控](#解决绑定-apple-id-被风控)，建议 2~3 天后再关联美区 Apple ID。
 
 App Store 登陆美区 Apple ID，点按头像进入点选「Manage Payments」管理付款。点选「Add Payment Method」添加付款方式。
 
-![](pic/5id.png)
+![5id](https://tvax4.sinaimg.cn/large/008eZBHKly1gow2f51vutj315q0hijsd.jpg)
 
-点选「PayPal」会打开网页并登陆完成绑定。
+点选「PayPal」登陆完成绑定。
 
-【注】PayPal 绑定的银行卡会消费几美元，验证后会返还。
-
-![](pic/5pp.png)
+![5pp](https://tva1.sinaimg.cn/large/008eZBHKly1gow2fa5dhgj315q0gudgy.jpg)
 
 ---
 
 ### 解决 Paypal 被风控
 
-登陆 PayPal 如出现下图情况，是因新注册的 PayPal 有审核机制，解决办法：
+登陆 PayPal 如出现下图情况，是因新注册的 PayPal 有审核机制：
+
+![风控](https://tvax3.sinaimg.cn/large/008eZBHKly1gow2ffvlbkj315q0gg3z0.jpg)
 
 **方法一**：将下图中中文翻译成英文并发邮件给 PayPal，请客服解决。
 
 **方法二**：等 1-2 天再来 App Store 验证。
 
-![](pic/风控.png)
-
 ---
 
-[![Telegram交流群](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/Apple_CHN)
+[![Telegram交流群](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/Apple_CHN) 🔝[返回顶部](#检测-ip)
+
