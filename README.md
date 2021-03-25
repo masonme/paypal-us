@@ -1,4 +1,4 @@
-# 使用 Google Voice 注册美区 PayPal，绑定美区 Apple ID 教程
+# 使用 Google Voice 注册美区 PayPal 并绑定美区 Apple ID
 
 ### 检测 IP
 
