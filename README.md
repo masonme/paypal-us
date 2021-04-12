@@ -3,7 +3,7 @@
 ### 联系信息
 
 * Twitter：[@yifangme](https://twitter.com/yifangme)
-* Telegram 交流群：[@googlequn](https://t.me/googlequn) 
+* Telegram：[@googlequn](https://t.me/googlequn) 
 
 ---
 ### 检测 IP
