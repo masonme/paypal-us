@@ -1,5 +1,11 @@
 # 使用 Google Voice 注册美区 PayPal 并绑定美区 Apple ID
 
+### 联系信息
+
+* Twitter：[@yifangme](https://twitter.com/yifangme)
+* Telegram 交流群：[@googlequn](https://t.me/googlequn) 
+
+---
 ### 检测 IP
 
 开启美国节点（全局模式），浏览器（无痕模式）打开 [whoer](https://whoer.net) 检测路线伪装程度。
@@ -72,7 +78,7 @@ App Store 登陆美区 Apple ID，点按头像进入点选「Manage Payments」�
 
 **方法二**：等 1-2 天再来 App Store 验证。
 
----
 
-[![Telegram交流群](https://raw.githubusercontent.com/liuour/SVG/aee8b7c77bb0aff2171f5c4b11caba849fc90768/Telegram.svg)](https://t.me/Apple_CHN) 🔝[返回顶部](#检测-ip)
+
+🔝[返回顶部](#联系信息)
 
